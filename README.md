@@ -1,4 +1,4 @@
-# Proyecto Final - Optinización de Aplicaciones Web
+# Proyecto Final - Optimización de Aplicaciones Web
 
 ### Universidad
 
@@ -16,7 +16,4 @@ Dr. Víctor Hugo Menéndez Domínguez
 
 |                    Guillermo Aguilar                    |                  Liset Puc                   |                    Lorenzo Lliteras                     |
 | :--------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------: |
-| ![Member picture] | ![Member picture] | ![Member picture] |
-
-
-# Equipo
+| ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/Foto_Guillermo.png) | ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/Foto_Liset.jpg) | ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/Foto_Lorenzo.jpg) |
