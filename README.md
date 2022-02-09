@@ -12,11 +12,11 @@ Licenciatura en Ingeniería de Software
 
 Dr. Víctor Hugo Menéndez Domínguez
 
-## 👨‍💻 Equipo
+## Equipo
 
-|                    Jonathan Gómez                    |                  Ricardo Grimaldo                   |                    Joshua Meza                     |                   Hebert Negrón                    |
-| :--------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
-| ![Member picture] | ![Member picture] | ![Member picture] | ![Member picture] |
+|                    Guillermo Aguilar                    |                  Liset Puc                   |                    Lorenzo Lliteras                     |
+| :--------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------: |
+| ![Member picture] | ![Member picture] | ![Member picture] |
 
 
 # Equipo
