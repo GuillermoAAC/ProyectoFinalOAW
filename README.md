@@ -16,4 +16,4 @@ Dr. Víctor Hugo Menéndez Domínguez
 
 |                    Guillermo Aguilar                    |                  Liset Puc                   |                    Lorenzo Lliteras                     |
 | :--------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------: |
-| ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/Foto_Guillermo.png) | ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/Foto_Liset.jpg) | ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/Foto_Lorenzo.jpg) |
+| ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/img/Foto_Guillermo.png) | ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/img/Foto_Liset.jpg) | ![Member picture](https://raw.githubusercontent.com/GuillermoAAC/ProyectoFinalOAW/main/img/Foto_Lorenzo.jpg) |
