@@ -6,7 +6,7 @@ Universidad Autónoma de Yucatán, Facultad de Matemáticas.
 
 ### Carrera
 
-Licenciatura en Ingeniería de Software
+Licenciatura en Ingeniería de Computación
 
 ### Profesor
 
